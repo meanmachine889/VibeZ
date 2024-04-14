@@ -1,0 +1,23 @@
+{
+  "name": "dbs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tsparticles/engine": "^3.3.0",
+    "@tsparticles/react": "^3.0.0",
+    "@tsparticles/slim": "^3.3.0",
+    "clsx": "^2.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "framer-motion": "^11.0.23",
+    "pg": "^8.11.3",
+    "tailwind-merge": "^2.2.2"
+  }
+}
